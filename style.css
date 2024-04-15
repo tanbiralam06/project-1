@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    border: 0;
+
+}
+.body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid black;
+}
+
+.red > h2 {
+    color: red;
+}
+
+.box-1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.green > h2 {
+    color: green;
+}
+
+.box-2{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+
+.blue > h2 {
+    color: blue;
+}
+
+.box-3{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.purple > h2 {
+    color: purple;
+}
+
+.box-4{
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+}
+
+.pink > h2 {
+    color: pink;
+}
+
+.box-5{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+}
+
+.violet > h2 {
+    color: violet;
+}
+
+.box-6{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+}
